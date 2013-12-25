@@ -3,6 +3,11 @@ Contrib.CookieCuttr
 
 The CookieCuttr plugin for Orchard (http://cookiecuttr.com/)
 
+Dependencies
+============
+
+Orchard.jQuery
+
 Quick Setup
 ===========
 
