@@ -68,7 +68,6 @@ namespace Contrib.CookieCuttr.Drivers
         {
             var partName = part.PartDefinition.Name;
 
-            //part.Record.RememberUser = GetAttribute<bool>(context, partName, "RememberUser");
             part.Record.cookieDiscreetLinkText = GetAttribute<string>(context, partName, "cookieDiscreetLinkText");
             part.Record.cookieDiscreetPosition = GetAttribute<string>(context, partName, "cookieDiscreetPosition");
             part.Record.cookieDomain = GetAttribute<string>(context, partName, "cookieDomain");
