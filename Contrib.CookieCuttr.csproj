@@ -114,13 +114,12 @@
     <Content Include="Views\EditorTemplates\Parts.Cookiecuttr.Settings.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Web.config" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Parts\Cookiecuttr.cshtml" />
+    <Content Include="README.md" />
+    <Content Include="LICENSE" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>

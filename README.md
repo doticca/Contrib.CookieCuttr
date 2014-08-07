@@ -1,7 +1,7 @@
 Contrib.CookieCuttr
 ===================
 
-The CookieCuttr plugin for Orchard (http://cookiecuttr.com/)
+CookieCuttr for Orchard 
 
 Dependencies
 ============
@@ -20,8 +20,6 @@ Ready, you are ok with the EU cookie Law.<br />
 
 Available Options
 =================
-
-For full options of the javascript plugin, visit http://cookiecuttr.com#options
 
 <strong>cookieAnalytics</strong> - if you are just using a simple analytics package you can set this to true, it displays a simple default message with no privacy policy link - this is set to true by default.
 

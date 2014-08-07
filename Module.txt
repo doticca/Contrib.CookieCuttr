@@ -1,10 +1,10 @@
 ﻿Name: CookieCuttr
 Path: Contrib.CookieCuttr
 AntiForgery: enabled
-Author: Fotis G. Pappas (fotisgpap)
-Website: http://www.grapto.com
-Version: 1.7.2.1
-OrchardVersion: 1.7.2
-Description: The CookieCuttr plugin for Orchard (http://cookiecuttr.com/)
+Author: Fotis G. Pappas (fotisgpap@doticca.com)
+Website: http://www.doticca.com
+Version: 1.8.1
+OrchardVersion: 1.8.1
+Description: CookieCuttr for Orchard
 Dependencies: Orchard.jQuery
 Category: Users
