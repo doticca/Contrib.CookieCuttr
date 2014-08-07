@@ -56,3 +56,8 @@ Available Options
 <strong>cookieDiscreetLinkText</strong> - edit the text you want to appear on the discreet option.
 
 <strong>cookieDiscreetPosition</strong> - set to topleft by default, you can also set topright, bottomleft, bottomright.
+
+Demo
+====
+
+For a demo of the CookieCuttr plugin in action visit http://www.doticca.com The site runs on Orchard CMS and CookieCuttr for Orchard is enabled with default settings.
