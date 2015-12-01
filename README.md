@@ -60,4 +60,4 @@ Available Options
 Demo
 ====
 
-For a demo of the CookieCuttr plugin in action visit http://www.doticca.com The site runs on Orchard CMS and CookieCuttr for Orchard is enabled with default settings.
+For a demo of the CookieCuttr plugin in action visit http://www.grapto.com The site runs on Orchard CMS and CookieCuttr for Orchard is enabled with default settings.
