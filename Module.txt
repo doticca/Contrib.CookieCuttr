@@ -2,7 +2,7 @@
 Path: Contrib.CookieCuttr
 AntiForgery: enabled
 Author: Team Grapto (tweet: @teamgrapto)
-Website: http://www.doticca.com
+Website: https://github.com/grapto/Contrib.CookieCuttr
 Version: 1.8.1
 OrchardVersion: 1.8.1
 Description: CookieCuttr for Orchard
